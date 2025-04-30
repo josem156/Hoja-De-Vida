@@ -1,0 +1,35 @@
+body{
+    background-color:#000000;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+.Titulo{
+    font-family:'Times New Roman';
+    margin: 10px;
+    margin-top: 20px; 
+    background-color:rgb(78, 78, 78);
+    border-radius: 20px;
+    padding: 30px;
+}
+.info{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:rgb(78, 78, 78);
+    margin: 20px;
+    margin-top: 30px;
+    border-radius: 20px;
+    padding: 30px;
+    
+}
+.general{
+    height: 1000px;
+    width: 1000px;
+    margin: auto;
+}
+
+.foto{
+    position:relative;
+    left: 230px; ;
+}
+.h2{
+    color: bisque;
+}
